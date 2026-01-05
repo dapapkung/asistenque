@@ -1,0 +1,9 @@
+openai-whisper
+sounddevice
+numpy
+webrtcvad
+scipy
+requests
+pynput
+python-dotenv
+elevenlabs

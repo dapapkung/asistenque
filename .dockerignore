@@ -1,0 +1,12 @@
+__pycache__
+*.pyc
+.git
+.gitignore
+.dockerignore
+.env
+.venv
+venv
+.DS_Store
+*.mp3
+*.wav
+output

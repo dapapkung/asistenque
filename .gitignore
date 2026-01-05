@@ -1,0 +1,52 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+.env
+.venv/
+venv/
+ENV/
+env/
+.idea/
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Audio Temp Files
+*.wav
+*.mp3
+temp_*.wav
+temp_*.mp3
+output/
+
+# Logs
+*.log
+
+# Testing / Code Quality
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
